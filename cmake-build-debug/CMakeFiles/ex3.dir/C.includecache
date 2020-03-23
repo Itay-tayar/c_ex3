@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Itay/CLionProjects/ex3/RBTree.c
+RBTree.h
+/cygdrive/c/Users/Itay/CLionProjects/ex3/RBTree.h
+stdio.h
+-
+stdlib.h
+-
+w32api/unknwn.h
+-
+
+/cygdrive/c/Users/Itay/CLionProjects/ex3/RBTree.h
+
